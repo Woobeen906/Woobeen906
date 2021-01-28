@@ -8,4 +8,4 @@
 - 📫 How to reach me: Please reach me in [Email](siugan0828@gmail.com) or [Velog](https://velog.io/@siugan)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
+![Github Stats](https://github.com/anuraghazra/github-readme-stats)
