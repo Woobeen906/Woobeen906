@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning React-Native, React,Algorithm...
 - 💻 I have development experience in C,C++ / React /React-Native / HTML+CSS.
 - 💬  I am ready to learn anytime.
-- 📫 How to reach me: Please reach me in [Email](pwoobeen@gmail.com) or [Velog](https://velog.io/@siugan)
 
-🌱 ***[RESUME](https://potent-giant-8c6.notion.site/Resume-of-Park-Woo-Been-f0466992c59d426e8a63a3f9ab2cf778)***
+🌱 ***[RESUME](https://potent-giant-8c6.notion.site/Resume-of-Park-Woo-Been-f0466992c59d426e8a63a3f9ab2cf778)*** <br>
+✏️ ***[Velog](https://velog.io/@siugan)***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woobeen906)](https://github.com/anuraghazra/github-readme-stats)
