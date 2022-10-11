@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning React-Native, React,Algorithm...
 - 💻 I have development experience in C,C++ / React /React-Native / HTML+CSS.
-- 💬  I am ready to learn anytime.
 
 🌱 ***[RESUME](https://potent-giant-8c6.notion.site/Resume-of-Park-Woo-Been-f0466992c59d426e8a63a3f9ab2cf778)*** <br>
 ✏️ ***[Velog](https://velog.io/@siugan)***
