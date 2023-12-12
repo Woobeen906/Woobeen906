@@ -8,6 +8,5 @@
 - 💻 I have development experience in C,C++ / React /React-Native / HTML / CSS , SCSS.
 
 🌱 ***[RESUME](https://potent-giant-8c6.notion.site/Resume-of-Park-Woo-Been-f0466992c59d426e8a63a3f9ab2cf778)*** <br>
-✏️ ***[Velog](https://velog.io/@siugan)***
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woobeen906)](https://github.com/anuraghazra/github-readme-stats)
